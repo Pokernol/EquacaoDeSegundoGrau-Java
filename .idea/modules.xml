@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Equacao2Grau.iml" filepath="$PROJECT_DIR$/Equacao2Grau.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EquacaoDeSegundoGrau-Java.iml" filepath="$PROJECT_DIR$/EquacaoDeSegundoGrau-Java.iml" />
     </modules>
   </component>
 </project>
